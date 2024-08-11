@@ -10,7 +10,7 @@
 ```javascript
 const Adhara = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Angualr, Webpack, Parcel, Karma with Jasemine, ApiREST, GraphQL],
+  tools: [Anguar, React, Webpack, vite, Parcel, Karma with Jasemine, ApiREST, GraphQL],
   languajes: [Spanish, English, German],
   challenges: [
       "Learning testing with Karma",
