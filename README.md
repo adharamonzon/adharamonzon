@@ -1,4 +1,4 @@
-### Hi I'm Adhara! 👋:woman_technologist:
+### Hi I'm Adhara! 👋:rocket:
 
 [![Twitter: AdharaMonzón](https://img.shields.io/twitter/follow/MonzonAdhara?style=social)](https://twitter.com/MonzonAdhara)
 [![Linkedin: Adhara Monzón](https://img.shields.io/badge/-AdharaMonzon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/adharamonzonvarillas/)
@@ -10,12 +10,12 @@
 ```javascript
 const Adhara = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Anguar, React, Webpack, vite, Parcel, Karma with Jasemine, ApiREST, GraphQL],
+  tools: [Anguar, Vue, React, Webpack, vite, Parcel, Karma with Jasemine, ApiREST, GraphQL],
   languajes: [Spanish, English, German],
   challenges: [
       "Learning testing with Karma",
       "keep improving programming skills",
-  ]  
+  ]
 }
 ```
 
